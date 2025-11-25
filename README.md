@@ -14,7 +14,7 @@ Project Overview :
 
 
 Repository Structure :
-1. complaints_filtered.csv - The manually labeled dataset of financial customer complaint narratives.
+1. complaints_filtered.csv - The dataset of financial customer complaint narratives along with metadata.
 2. Banking_Complaint.ipynb - Jupyter notebook containing preprocessing steps, model training, experimentation, and evaluation.
 3. app.py - Streamlit application for real time severity prediction from text input.
 
